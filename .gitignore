@@ -1,3 +1,8 @@
+#Images
+CatDog_single_test_images/
+CatDog_test_set/
+CatDog_training_set/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
