@@ -2,6 +2,7 @@
 CatDog_single_test_images/
 CatDog_test_set/
 CatDog_training_set/
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
